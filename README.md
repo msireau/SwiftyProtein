@@ -1,17 +1,16 @@
-# Swifty Proteins - 42School's project - 125/100
+# Swifty Proteins - Displaying ligands in a 3D Scene
 
 <br/>
 
 <div align="center">
-<img src="https://imgur.com/wqwOQtT" width="40%"/>
+<img src="https://i.imgur.com/wqwOQtT.gif" width="40" height="40" />
+
 </div>
 
 <br/>
 <br/>
 
-Swifty Proteins is a protein visualizer. <br/><br/>
-
-## Basic concepts
+## Built with
 - SceneKit
 - TouchID
 - Share
