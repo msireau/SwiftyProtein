@@ -3,7 +3,7 @@
 <br/>
 
 <div align="center">
-<img src="https://i.imgur.com/wqwOQtT.gif" width="40" height="40" />
+<img src="https://i.imgur.com/wqwOQtT.gif" height="500" />
 
 </div>
 
